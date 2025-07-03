@@ -23,5 +23,5 @@ A simple Python GUI application that removes a green screen from your webcam fee
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/green-screen-replacer.git
-cd green-screen-replacer
+git clone https://github.com/your-username/Green-Screen.git
+cd Green-Screen
